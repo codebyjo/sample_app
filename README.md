@@ -7,8 +7,9 @@ This is the sample application for the
 Learn Web Development with Rails*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
+This is where the URL lives:
 
-
+https://polar-scrubland-50568.herokuapp.com/ | https://git.heroku.com/polar-scrubland-50568.git
 
 
 This README would normally document whatever steps are necessary to get the
